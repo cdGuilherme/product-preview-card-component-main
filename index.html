@@ -8,23 +8,29 @@
     <title>Frontend Mentor | Product preview card component</title>
   </head>
   <body>
-    <figure>
-      <img src="images/image-product-mobile.jpg" alt="Perfume" />
-      <figcaption>Perfume</figcaption>
-    </figure>
+    <div class="card">
+      <section class="perfume-figure">
+        <img src="images/image-product-mobile.jpg" alt="Perfume" />
+      </section>
 
-    <h1>Gabrielle Essence Eau De Parfum</h1>
+      <section class="product">
+        <p class="product-name montserrat-500">Perfume</p>
 
-    <p>
-      A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator for
-      the House of CHANEL.
-    </p>
+        <h1 class="fraunces-700">Gabrielle Essence Eau De Parfum</h1>
 
-    <h2>$149.99</h2>
-    <h3>$169.99</h3>
+        <p class="montserrat-500">
+          A floral, solar and voluptuous interpretation composed by Olivier Polge, Perfumer-Creator
+          for the House of CHANEL.
+        </p>
 
-    <button><img src="images/icon-cart.svg" />Add to Cart</button>
+        <div class="price">
+          <h2>$149.99</h2>
+          <h3>$169.99</h3>
+        </div>
 
+        <button><img src="images/icon-cart.svg" alt="" />Add to Cart</button>
+      </section>
+    </div>
     <div class="attribution">
       Challenge by
       <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
