@@ -8,6 +8,10 @@ body {
   /* background-color: var(--very-dark-blue); */
   color: var(--very-dark-blue);
   padding: 1.75rem 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
@@ -94,4 +98,11 @@ button img {
   margin-right: 1em;
   max-width: 1rem;
   max-height: 1rem;
+}
+
+@media screen and (min-width: 40rem) {
+  .card {
+    flex-direction: row;
+    max-width: 42.86rem;
+  }
 }
