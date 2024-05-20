@@ -19,8 +19,6 @@ body {
   border-radius: 0.5rem;
   display: flex;
   flex-direction: column;
-  /* flex-direction: row; */
-  /* max-width: 42rem; */
 }
 
 /* https://stackoverflow.com/questions/32099624/flexbox-item-widths-are-affected-by-padding */
