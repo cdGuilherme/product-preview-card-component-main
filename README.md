@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-challenge-p9HELLQ1dW)
-- [Live Site URL](https://nanikore0.github.io/product-preview-card-component-main/)
+- [Live Site URL](https://cdguilherme.github.io/product-preview-card-component-main/)
 
 ## My process
 
@@ -53,5 +53,5 @@ I learned how to adapt to different screen sizes using CSS Flexbox. I achieved t
 
 ## Author
 
-- Github - [nanikore](https://github.com/nanikore0)
-- Frontend Mentor - [@nanikore0](https://www.frontendmentor.io/profile/nanikore0)
+- Github - [Guilherme Costa](https://github.com/cdGuilherme)
+- Frontend Mentor - [@cdGuilherme](https://www.frontendmentor.io/profile/cdGuilherme)
